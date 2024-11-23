@@ -1,0 +1,2 @@
+[02-Nov-2024 22:16:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.29. in /home/kxvpe2miqlpu/public_html/evrenone/vendor/composer/platform_check.php on line 24
+[06-Nov-2024 09:16:14 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\support\functionController as functionController because the name is already in use in /home/kxvpe2miqlpu/public_html/evrenone/app/Http/Controllers/front/indexController.php on line 8
